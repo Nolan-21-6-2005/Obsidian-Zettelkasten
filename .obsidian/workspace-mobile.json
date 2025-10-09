@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "921038bd653ecdc4",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc6ddc1bc08f2f8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "867921df66476780",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GIS.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "GIS"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1b9f239d71eb88d1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "85e6a8554b9a4deb",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "113006352edc8e1c",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:#Nhược",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "70c30b49f1eb047d",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "b44d4c96cbf54f3a",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "d1b12a9d4abce6c2",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8a8afb6114f066e7",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "03 - Permanent Note/Programming.md",
+            "collapseAll": true,
+            "extraContext": true,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": true,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "526819e781c0a696",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "0cecf03bf6505bdc",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "calendar"
+        }
+      }
+    ],
+    "currentTab": 2
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "workspaces:Manage workspace layouts": false,
+      "graph:Open graph view": false,
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "867921df66476780",
+  "lastOpenFiles": [
+    "01 - Zettelkasten/General knowledge.md",
+    "01 - Zettelkasten/Management.md",
+    "03 - Resource/P01 - Đặc tả yêu cầu.md",
+    "03 - Resource/Drawing 2025-09-14 11.06.31.excalidraw.md",
+    "03 - Resource/Programming.md",
+    "03 - Resource/P01 - Phân tích yêu cầu.md",
+    "03 - Resource/Knowledge.md",
+    "03 - Resource/ANN development.md",
+    "04 - Archived",
+    "03 - Resource",
+    "02 - Area",
+    "01 - Project",
+    "03 - Permanent Note/Knowledge.canvas",
+    "00 - Map of contents/AI - Mathematic.md",
+    "02 - Literature Note/C Programming.md",
+    "03 - Permanent Note/Knowledge.md",
+    "AI Practice.md",
+    "P01 - Đặc tả yêu cầu.md",
+    "01 - Fleeting Note/Project 01 - 20-09-2025.md",
+    "03 - Permanent Note/P01 - Đặc tả yêu cầu.md",
+    "00 - Map of contents/Project 01 - 20-09-2025.md",
+    "03 - Permanent Note/P01 - Phân tích yêu cầu.md",
+    "01 - Fleeting Note/P01 - Phân tích yêu cầu.md",
+    "00 - Map of contents/Mục đích.md",
+    "Đối tượng(OOP).md",
+    "652ebc26fbd9a45bcec81819_Deep_Learning_vs_Machine_Learning_3033723be2.jpeg",
+    "02 - Literature Note/Artificial Neural Networks.md",
+    "Việc cần làm.md",
+    "Computer Vision.md",
+    "Dashboard++.md",
+    "Attachment/AI-inforgraphic-861965569.jpg",
+    "03 - Permanent Note/Symbolic AI.md",
+    "Untitled.canvas",
+    "Attachment/aperture-rules.jpg",
+    "Attachment/Pasted Image 20250825193220_379.png",
+    "Attachment/Pasted Image 20250825193220_354.png",
+    "Attachment/Pasted Image 20250825193220_406.png",
+    "02 - Literature Note/Cá thể.md",
+    "00 - Map of contents/AI - Map Of Contents.canvas",
+    "02 - Literature Note/GIS.canvas",
+    "Attachment/index-04.avif",
+    "02 - Literature Note/Computer Vision.canvas",
+    "Attachment/tim-hieu-ve-image-sensor-cam-bien-hinh-anh-trong-camera-giam-sat-1.jpg",
+    "Attachment/ellipsoid-ellipse-plane-intersection-circle-formula-revolution.jpg",
+    "Attachment/Fig9_11.jpg",
+    "00 - Map of contents/Philosophy.base",
+    "03 - Permanent Note/Artificial Neural Networks.canvas",
+    "fonts/DFVN-Excalifont.ttf",
+    "fonts/DFVN-Excalifont.otf",
+    "fonts 2/DFVN-Excalifont.otf",
+    "fonts 2/DFVN-Excalifont.ttf",
+    "fonts 2",
+    "01 - Fleeting Note/Untitled.canvas",
+    "03 - Reference/Artificial Intelligence.canvas",
+    "Reference/AI.canvas",
+    "Zettelkasten/Computer Networking.canvas"
+  ]
+}

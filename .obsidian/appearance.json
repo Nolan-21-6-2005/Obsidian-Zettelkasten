@@ -1,0 +1,21 @@
+{
+  "enabledCssSnippets": [
+    "header",
+    "cloze",
+    "Cornell",
+    "Easy multi-column notes",
+    "vault-logo",
+    "dim-support-files",
+    "dashboard-ReadLineLength",
+    "dashboard",
+    "Rainbow Folder Enhanced",
+    "custom"
+  ],
+  "theme": "moonstone",
+  "accentColor": "#f55cad",
+  "baseFontSize": 17,
+  "textFontFamily": "DFVN Excalifont",
+  "monospaceFontFamily": "Cascadia Code",
+  "interfaceFontFamily": "DFVN Excalifont",
+  "showRibbon": true
+}

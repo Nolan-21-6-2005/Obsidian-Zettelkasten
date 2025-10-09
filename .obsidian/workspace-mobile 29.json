@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "5f0d8fe9da2052f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "a409dce9898c1c11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ecb3a560a98c279",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9e778eb3d4c538db",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "541aaa4264e66e54",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "83b28073921c4e7e",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "1ea2dba5554e6383",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "ce7da37b08308275",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "3fa189901ec1978c",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "b6a8a203fd50a981",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8e80952cf9556be7",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "d4cde615a6fe707a",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "f88e7fed5a6ef4ec",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7ecb3a560a98c279",
+  "lastOpenFiles": [
+    "Literature/Hill Climbing Search.md",
+    "Literature/Dijktra Algorithms.md",
+    "Data/Template/Template 1.md",
+    "Data/Screenshot (15).png",
+    "Reference/A - Star Search.md",
+    "Excalidraw/Diijkstra Algorithms.md",
+    "Data/IMG_0109.png",
+    "Data/IMG_0112.png",
+    "Reference/Best First Search.md",
+    "Data/IMG_0111.png",
+    "Permanent/Operating System.canvas",
+    "Data/Tangent_function_animation.gif",
+    "Data/IMG_0108.jpg",
+    "Fleeting/Experience/symbols.pdf",
+    "Data/13-removebg-preview.png",
+    "Data/Gaussian_elimination_animated.gif",
+    "Data/Function_color_example_3.svg.png",
+    "Excalidraw/Drawing 2025-07-01 14.03.27.excalidraw.md",
+    "Data/Bat-quai-la-8-quai-trong-kinh-dich-1-736x400.png",
+    "Literature/Mind Map.md",
+    "Reference/Control Processing Unit.md",
+    "Excalidraw/Graph Theory.md",
+    "Permanent/Search Algorithms.md"
+  ]
+}

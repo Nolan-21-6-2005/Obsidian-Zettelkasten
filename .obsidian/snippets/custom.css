@@ -1,0 +1,58 @@
+:root {
+
+  --Fold1: #ff9999;  /* đỏ nhạt */
+  --Fold2: #99ccff;  /* xanh dương nhạt */
+  --Fold3: #99ff99;  /* xanh lá nhạt */
+  --Fold4: #ffff99;  /* vàng nhạt */
+  --Fold5: #ffcc99;  /* cam nhạt */
+  --Fold6: #cc99ff;  /* tím nhạt */
+  --Fold7: #ff99cc;  /* hồng */
+  --Fold8: #a0a0a0;  /* xám */
+	
+  /* Margins and padding */
+  --foldBgPad: 3px;
+  --foldBgMar: 5px;
+  
+}
+
+body {
+  --h1-color: #CE4770;
+  --h2-color: #D4572B;
+  --h3-color: #B16803;
+  --h4-color: #218871;
+  --h5-color: #2473B6;
+  --h6-color: #6851A2;
+}
+
+.no-inline .inline-title {
+   display: none;
+}
+
+.theme-dark {
+  --background-primary: #18004F;
+  --background-secondary: #220070;
+}
+
+.theme-light {
+  --background-primary: #FDF7F3;
+  --background-secondary: #FDF7F3;
+}
+
+.todo-list {
+  background-color: var(--background-secondary);
+}
+
+/* Đổi màu nền code block */
+.markdown-preview-view pre code,
+.markdown-source-view pre {
+  background-color: #1e1e2e !important; /* đổi mã màu tại đây */
+  color: #ffffff; /* màu chữ */
+  border-radius: 8px; /* bo góc */
+  padding: 10px;
+}
+
+.view-content > .markdown-source-view.mod-cm6 > .cm-editor > .cm-scroller {
+    padding: var(--file-margins);
+    border-radius: 9px;
+    border: 1px red solid;
+}

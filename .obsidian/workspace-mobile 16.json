@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "b7b1d7eba93abb11",
+    "type": "split",
+    "children": [
+      {
+        "id": "68850cac05c66390",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e528a42104b22b90",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fe1e00189ef96042",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4406cbc2a1963e05",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "40e6f172521e2e80",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "Se",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "ede2aa63331fc29b",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "e08e46a5ddea8f7a",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "dba2d81e1e7271ae",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a5b11071a0be1a83",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Excalidraw/Drawing 2025-06-02 06.17.13.excalidraw.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "2858d88b6ad9c88a",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Excalidraw/Drawing 2025-06-02 06.17.13.excalidraw.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "e24ab9cede3bcd95",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Excalidraw/Drawing 2025-06-02 06.17.13.excalidraw.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "40e6f172521e2e80",
+  "lastOpenFiles": [
+    "Function_color_example_3.svg.png",
+    "Gaussian_elimination_animated.gif",
+    "Function_color_example_3.svg 1.png",
+    "Literature Note (Summary)/Process.md",
+    "Literature Note (Summary)/Computer.md",
+    "Permanent Note (Analysis)/Search Algorithms.md",
+    "Permanent Note (Analysis)/Adjency Edge.md",
+    "Permanent Note (Analysis)/BFS for Tree.md",
+    "Permanent Note (Analysis)/Template.md",
+    "Screenshot (15).png",
+    "Permanent Note (Analysis)/DFS for Tree.md",
+    "Excalidraw/Diijkstra Algorithms.md",
+    "Excalidraw/Process.excalidraw.md",
+    "Experience/symbols.pdf",
+    "Excalidraw/Linked List.md",
+    "Tangent_function_animation.gif",
+    "Literature Note (Summary)/Control Processing Unit.md",
+    "Literature Note (Summary)/Computer Memory.md",
+    "Permanent Note (Analysis)/BFS For Graph.md",
+    "Literature Note (Summary)/Uniformed Search.md",
+    "Permanent Note (Analysis)/Data Structures.canvas",
+    "Permanent Note (Analysis)/Algorithms.canvas",
+    "Excalidraw/Drawing 2025-06-02 06.17.13.excalidraw.md",
+    "Excalidraw/Search.md",
+    "Literature Note (Summary)/Problem solving.md",
+    "Literature Note (Summary)/Problem Solving Agent.md",
+    "Permanent Note (Analysis)/DSA.canvas"
+  ]
+}

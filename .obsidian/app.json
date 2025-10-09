@@ -1,0 +1,11 @@
+{
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "01 - Zettelkasten",
+  "attachmentFolderPath": "Attachment",
+  "userIgnoreFilters": [
+    "03 - Journaling/",
+    "Template/"
+  ]
+}

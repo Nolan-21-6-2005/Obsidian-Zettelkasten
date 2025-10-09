@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "ad5d04de9075ed84",
+    "type": "split",
+    "children": [
+      {
+        "id": "f169fed7b5b1340f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67438fd7ce32f030",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Reference/CPT-LinkedLists-addingnode.svg"
+              },
+              "icon": "lucide-image",
+              "title": "CPT-LinkedLists-addingnode"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ae48e1ee4debe83c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "215859a5004f3a3d",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "231f43f983b0dfff",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "4148c624abedb568",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "7645c0f0b7fe7d56",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "bebbf2dbaae79d0a",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "e4a664775d60f5ce",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a2cb5771d42ae8c9",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Reference/CPT-LinkedLists-addingnode.svg",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "96e040d88c7e39a8",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Reference/CPT-LinkedLists-addingnode.svg",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "eb12ffb518c4e727",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Reference/CPT-LinkedLists-addingnode.svg",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "215859a5004f3a3d",
+  "lastOpenFiles": [
+    "Reference/Operating System/OS_ch10 IO and disk schecduling.pdf",
+    "Reference/Operating System/OS_ch5 CPU scheduling.pdf",
+    "Reference/Operating System/OS_ch3_Process.pdf",
+    "Reference/Mathematic/Discrette Mathematic/Presentation/Bài 4.  chương 2.Các số đặc trưng của đồ thị.pdf",
+    "Reference/Computer Structure/Chương 0.Mở đầu.pptx",
+    "Reference/Computer Structure/Chương 5.Bộ nhớ_update.pptx",
+    "Reference/Computer Structure/Chương 3 Cơ bản về logic số và số học trong máy tính.pptx",
+    "Reference/Computer Structure/Chương 1 Giới thiệu chung_.pptx",
+    "Reference/Computer Structure/Chương 6_IO.pptx",
+    "Reference/Computer Networking/Chapter_2_v9.0.pptx",
+    "Reference/Computer Networking/Chapter_1_v9.0.pptx",
+    "Template/Template 1.md",
+    "Excalidraw/GIS.excalidraw.md",
+    "Zettelkasten/Dataset for Text Classification.md",
+    "Excalidraw/Graph Theory.md",
+    "Reference/Screenshot (15).png",
+    "Project/puzzle AI/Project 01 - phân tích yêu cầu.canvas",
+    "Zettelkasten/NLP Tasks.md",
+    "Zettelkasten/1. Management.md",
+    "Zettelkasten/Queue.md",
+    "Excalidraw/Diijkstra Algorithms.md",
+    "Reference/Pasted Image 20250825193220_379.png",
+    "Reference/Pasted Image 20250825193220_354.png",
+    "Reference/Pasted Image 20250825193220_406.png",
+    "Reference/A - Star Search.md",
+    "Zettelkasten/Deep Learning.md",
+    "Zettelkasten/Regular Expressions.md",
+    "Zettelkasten/Feedforward Neural Network.md",
+    "Zettelkasten/Convolutional Neural Network.md",
+    "Reference/IMG_0111.png",
+    "Reference/Best First Search.md",
+    "Zettelkasten/Artificial Neural Networks.md",
+    "Network/Test.canvas",
+    "Zettelkasten/Deep Learning technique for NLP.md",
+    "Project/puzzle AI/CreateState.md",
+    "Project/puzzle AI/Pseudocode.excalidraw.md",
+    "Project/puzzle AI/CreateState.excalidraw.md",
+    "Zettelkasten/1.1  Management.md",
+    "Zettelkasten/Natural Language Processing.md",
+    "Project/puzzle AI/AI.md",
+    "Reference/IMG_0109.png",
+    "Reference/IMG_0112.png",
+    "Zettelkasten/Map of content.md",
+    "Reference/Singly-linked-list.svg",
+    "Network/Artificial Intelligence.canvas",
+    "Project/puzzle AI/Phân tích yêu cầu.canvas",
+    "Zettelkasten/Clustering.md",
+    "Zettelkasten/ANN.md",
+    "Reference/Tangent_function_animation.gif",
+    "Reference/IMG_0108.jpg",
+    "Project/Computer Vision/AI model for Computer Vision.canvas",
+    "Reference/Data Collection, Processing, and Engineering.canvas"
+  ]
+}

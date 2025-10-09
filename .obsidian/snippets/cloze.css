@@ -1,0 +1,8 @@
+body {
+	--cloze-underline-color: pink;
+	--cloze-underline-width: 2px;
+	--cloze-underline-style: dashed;
+	--cloze-hint-color: blue;
+	--cloze-hint-font-size: 30px;
+	--cloze-fixed-width: 10px;
+}

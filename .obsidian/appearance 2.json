@@ -1,0 +1,22 @@
+{
+  "enabledCssSnippets": [
+    "header",
+    "cloze",
+    "Cornell",
+    "Rainbow Folder Enhanced",
+    "custom",
+    "colored-tags",
+    "Easy multi-column notes"
+  ],
+  "cssTheme": "",
+  "baseFontSize": 16,
+  "showRibbon": false,
+  "showViewHeader": true,
+  "baseFontSizeAction": false,
+  "theme": "moonstone",
+  "accentColor": "#ce4770",
+  "interfaceFontFamily": "Quicksand",
+  "monospaceFontFamily": "Inter",
+  "textFontFamily": "Fz Bohemian Typewriter",
+  "nativeMenus": false
+}

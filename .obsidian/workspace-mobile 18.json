@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "2e524d44c34cccd3",
+    "type": "split",
+    "children": [
+      {
+        "id": "353edb21b9129d96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16eb6fc2e63ca541",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a8478171c3050a98",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "72963e6a18dff819",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "a4f73f58662d8b56",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "3627d8e699b52f78",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "d0dbef40c2f1d17a",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "a59a451bf068158e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8d5fed058a186e7a",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "cc3213fed2eb98a5",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "179f5acdf3a7474b",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "16eb6fc2e63ca541",
+  "lastOpenFiles": [
+    "Literature Note (Summary)/Computer.md",
+    "Screenshot (15).png",
+    "Excalidraw/Diijkstra Algorithms.md",
+    "Experience/symbols.pdf",
+    "Excalidraw/Process.excalidraw.md",
+    "Tangent_function_animation.gif",
+    "Gaussian_elimination_animated.gif",
+    "Literature Note (Summary)/Process.md",
+    "Function_color_example_3.svg.png",
+    "Function_color_example_3.svg 1.png",
+    "Permanent Note (Analysis)/Template.md",
+    "Permanent Note (Analysis)/Adjency Edge.md",
+    "Permanent Note (Analysis)/BFS for Tree.md",
+    "Permanent Note (Analysis)/DFS for Tree.md",
+    "Permanent Note (Analysis)/Search Algorithms.md",
+    "Excalidraw/Linked List.md",
+    "Permanent Note (Analysis)/BFS For Graph.md",
+    "Literature Note (Summary)/Control Processing Unit.md",
+    "Literature Note (Summary)/Computer Memory.md"
+  ]
+}

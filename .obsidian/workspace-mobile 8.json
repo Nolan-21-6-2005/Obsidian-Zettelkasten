@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "509367f31aa2f3a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4da4be0167aba92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2de1d1b332224e7b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "db30ed28533a1524",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "687d6bd6bd884dc3",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "c966bbb76ff4b317",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "4c53980cfa9d9e96",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "9169f5c47e588c65",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "4443c1a9af2a1438",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a73a649e3d94d0a1",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "6030dd0944f05f88",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "46402530266efe71",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "687d6bd6bd884dc3",
+  "lastOpenFiles": [
+    "Permanent Note/DFS for Tree.md",
+    "Literature Note/DSA.canvas",
+    "Fleeting Note/Lập trình C-Sharp.md",
+    "Fleeting Note/Stepwise refinement.md",
+    "Fleeting Note/Counting problems.md",
+    "Fleeting Note/Intelligent Agents.md",
+    "Fleeting Note/Heuristic Function.md",
+    "Literature Note/Combinatorics.md",
+    "Literature Note/How to take a smart note.md",
+    "Literature Note/How to take note.md",
+    "Fleeting Note/Predicate Logic symbols.md",
+    "Fleeting Note",
+    "Permanent Note",
+    "Experience/Math/Graph.md",
+    "Experience/Language/Shawdowing.md",
+    "Experience/Minto Paramid Principle.md",
+    "Experience/Cách đặt câu hỏi.md",
+    "Experience/How to take a smart note.md",
+    "Experience/Math",
+    "Experience/How to take note.md",
+    "Experience/Language",
+    "Experience",
+    "Excalidraw 2/Search.md",
+    "Excalidraw 2/Linked List.md",
+    "Excalidraw 2/Tree.md",
+    "Excalidraw 2/Diijkstra Algorithms.md",
+    "Excalidraw 2/Computer.md",
+    "Excalidraw 2",
+    "Literature Note",
+    "Study/Data Structures And Algorithms/Theory/Algorithms/Depth First Search/DFS for Tree.md",
+    "Study/Operating System/Presentation/bt.docx",
+    "Excalidraw/Linked List.md",
+    "Study/Data Structures And Algorithms/Theory/Algorithms/Breadth First Search/BFS for Tree.md",
+    "Study/Computer Structures/Presentation/Chương 0.Mở đầu.pptx",
+    "Excalidraw/Search.md",
+    "Study/Mathematic/Discrette Mathematic/Presentation/Bài 3. chương 3. Đồ thị phẳng.pdf",
+    "Study/Data Structures And Algorithms/DSA.canvas",
+    "Study/Artificial intelligence/Artificial Intelligence A Modern Approach Fourth Edition.md"
+  ]
+}

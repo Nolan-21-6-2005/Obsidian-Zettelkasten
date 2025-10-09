@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#Literature",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "tag:#Permanent  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "tag:#Fleeting  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.19710539336962,
+  "lineSizeMultiplier": 3.00096486887679,
+  "collapse-forces": true,
+  "centerStrength": 0.497031172686789,
+  "repelStrength": 12.5531914893617,
+  "linkStrength": 0.679119247897081,
+  "linkDistance": 197,
+  "scale": 0.46444698412840973,
+  "close": true
+}

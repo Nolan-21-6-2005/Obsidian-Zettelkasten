@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "29fa820de1d06d38",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0842b4a4b88257a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b65ba99362ecfdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literature Note (Summary)/AI/Artificial Neural Networks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Artificial Neural Networks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "22d9b6cf6dce56d5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e5d7a92d9297c203",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "1214b9f0ef95572a",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "fd1f488024cf779e",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "f828d50a1a0e6196",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "feb55bebb14670ba",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5cec94fba05fe432",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Literature Note (Summary)/AI/Artificial Neural Networks.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "dbfb2ddbc354d21e",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Literature Note (Summary)/AI/Artificial Neural Networks.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "13e077febccb89b1",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Literature Note (Summary)/AI/Artificial Neural Networks.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5b65ba99362ecfdc",
+  "lastOpenFiles": [
+    "Data/Screenshot (15).png",
+    "Experience/symbols.pdf",
+    "Permanent Note (Analysis)/OOP/(Lập trình hướng đối tượng).md",
+    "Template/Template 1.md",
+    "Excalidraw/Graph Theory.md",
+    "Literature Note (Summary)/Data structures/Adjency Edge.md",
+    "Excalidraw/Diijkstra Algorithms.md",
+    "Literature Note (Summary)/AI/Keywords.md",
+    "Data/Tangent_function_animation.gif",
+    "Permanent Note (Analysis)/Search Algorithms.md",
+    "Data/Gaussian_elimination_animated.gif",
+    "Data/Function_color_example_3.svg 1.png",
+    "Data/Function_color_example_3.svg.png",
+    "Permanent Note (Analysis)/AI.md",
+    "Permanent Note (Analysis)/Control Processing Unit.md"
+  ]
+}

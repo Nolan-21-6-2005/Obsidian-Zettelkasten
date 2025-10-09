@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "b7b1d7eba93abb11",
+    "type": "split",
+    "children": [
+      {
+        "id": "68850cac05c66390",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44f20f9be2ca3816",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-06-02 06.17.13.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-06-02 06.17.13.excalidraw"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fe1e00189ef96042",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4406cbc2a1963e05",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "40e6f172521e2e80",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "ede2aa63331fc29b",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "e08e46a5ddea8f7a",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "dba2d81e1e7271ae",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a5b11071a0be1a83",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Excalidraw/Drawing 2025-06-02 06.17.13.excalidraw.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "2858d88b6ad9c88a",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Excalidraw/Drawing 2025-06-02 06.17.13.excalidraw.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "e24ab9cede3bcd95",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Excalidraw/Drawing 2025-06-02 06.17.13.excalidraw.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "44f20f9be2ca3816",
+  "lastOpenFiles": [
+    "Excalidraw/Search.md",
+    "Screenshot (15).png",
+    "Permanent Note (Analysis)/Adjency Edge.md",
+    "Excalidraw/Diijkstra Algorithms.md",
+    "Excalidraw/Drawing 2025-06-02 06.17.13.excalidraw.md",
+    "Experience/symbols.pdf",
+    "Tangent_function_animation.gif",
+    "Excalidraw/Linked List.md",
+    "Permanent Note (Analysis)/Template.md",
+    "Function_color_example_3.svg.png",
+    "Excalidraw/Process.excalidraw.md",
+    "Permanent Note (Analysis)/BFS for Tree.md",
+    "Permanent Note (Analysis)/DFS for Tree.md",
+    "Permanent Note (Analysis)/BFS For Graph.md",
+    "Gaussian_elimination_animated.gif",
+    "Literature Note (Summary)/Control Processing Unit.md",
+    "Literature Note (Summary)/Computer Memory.md",
+    "Permanent Note (Analysis)/DSA.canvas",
+    "Literature Note (Summary)/Process.md",
+    "Function_color_example_3.svg 1.png",
+    "Literature Note (Summary)/Computer.md"
+  ]
+}

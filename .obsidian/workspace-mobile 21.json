@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "bd3545859b29bbcc",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f545cc1d5fbbd34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d6b85ed88d8406a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e63aca574af8d8a2",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4db65024a7458f80",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "31e94181bf8ca6f2",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "2473f71fe0f6cccc",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "c392ea22202dfd4d",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "8d18abbe5411483a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5b189039966fdea5",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "d0fa17d67ad4ce77",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "692e9d0d3affd69e",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6d6b85ed88d8406a",
+  "lastOpenFiles": [
+    "Permanent Note (Analysis)/Adjency Edge.md",
+    "Permanent Note (Analysis)/BFS for Tree.md",
+    "Permanent Note (Analysis)/DFS for Tree.md",
+    "Fleeting Note (Collection)/1.4.md",
+    "Fleeting Note (Collection)/1.2.md",
+    "Fleeting Note (Collection)/1.1.md",
+    "Permanent Note (Analysis)/Search Algorithm.md",
+    "Literature Note (Summary)/Computer Memory.md",
+    "Fleeting Note (Collection)/1.0.md",
+    "Fleeting Note (Collection)/1.3.md",
+    "Permanent Note (Analysis)/BFS For Graph.md",
+    "Fleeting Note (Collection)/Tasks Optimization.md",
+    "Caculus.canvas",
+    "Experience/symbols.pdf",
+    "Literature Note (Summary)/Process.md",
+    "Permanent Note (Analysis)/Search Algorithms.md",
+    "Literature Note (Summary)/Control Processing Unit.md",
+    "Literature Note (Summary)/Computer.md"
+  ]
+}
