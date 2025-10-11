@@ -1,0 +1,4 @@
+- [ ] Chống đẩy 20 rep.
+- [x] Tắm nước lạnh.
+- [ ] Tưới cây.
+- [ ] Hút bụi.

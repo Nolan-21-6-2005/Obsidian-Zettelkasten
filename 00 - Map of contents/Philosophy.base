@@ -1,0 +1,11 @@
+views:
+  - type: table
+    name: Processing
+    filters:
+      and:
+        - file.tags.contains("Processing")
+  - type: table
+    name: GIS
+    filters:
+      and:
+        - file.hasTag("GIS")

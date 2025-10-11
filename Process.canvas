@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"1c45fabad753c4fd","type":"text","text":"**Cấu trúc của một tiến trình ?**\nPCB: Là một cấu trúc dữ liệu được tạo ra bởi hệ điều hành nhằm điều khiển hoạt động của một tiến trình.","x":820,"y":-940,"width":405,"height":195},
+		{"id":"3be2d6f074f3a073","type":"text","text":"**Cách tiến trình được lưu trong bộ nhớ ?**","x":820,"y":-609,"width":420,"height":130},
+		{"id":"8bebac59efeb8ebd","type":"text","text":"**Trạng thái của tiến trình như thế nào ?**","x":820,"y":-344,"width":425,"height":90},
+		{"id":"86b4e9eb0050d320","type":"file","file":"Attachment/Process-state.png","x":1380,"y":-100,"width":503,"height":200},
+		{"id":"9618de52639386f5","type":"file","file":"Attachment/Pasted image 20251009135826.png","x":1505,"y":-744,"width":253,"height":400},
+		{"id":"9a61fb636b14f741","type":"text","text":"**CPU chuyển giữa các tiến trình**\nContex switch là một trong những \"giải thuật\" được hệ điều hành thực hiện trên cấu trúc dữ liệu PCB  ","x":820,"y":-1480,"width":405,"height":160},
+		{"id":"bc6821abe628618e","type":"file","file":"Attachment/Pasted image 20251009142212.png","x":-2200,"y":-749,"width":585,"height":360},
+		{"id":"2be98eb6534d85fd","type":"text","text":"**Cấu trúc của một luồng ?**\nTCB: Là một cấu trúc dữ liệu được hệ điều hành tạo ra để điều khiển hoạt động của luồng","x":-1308,"y":-659,"width":379,"height":180},
+		{"id":"a6205b9422fe85f9","type":"text","text":"**Cách process được thực thi ?**","x":-699,"y":-1120,"width":411,"height":60},
+		{"id":"6da5de4baed4ee1f","type":"file","file":"Attachment/Concepts-_Program_vs._Process_vs._Thread.jpg","x":-840,"y":-2000,"width":693,"height":400},
+		{"id":"6d22a444b7f0baf5","type":"file","file":"Attachment/PdfImage.png","x":1432,"y":-1900,"width":400,"height":327},
+		{"id":"1f854ba8e6dc2e12","type":"file","file":"Attachment/Pasted image 20251009135206.png","x":1464,"y":-1320,"width":337,"height":400}
+	],
+	"edges":[
+		{"id":"14b68e298ef189b2","fromNode":"3be2d6f074f3a073","fromSide":"right","toNode":"9618de52639386f5","toSide":"left"},
+		{"id":"6c888dd241ed781b","fromNode":"a6205b9422fe85f9","fromSide":"top","toNode":"6da5de4baed4ee1f","toSide":"bottom"},
+		{"id":"0617530566ba8da7","fromNode":"1c45fabad753c4fd","fromSide":"right","toNode":"1f854ba8e6dc2e12","toSide":"left"},
+		{"id":"74fa0c212de32eed","fromNode":"9a61fb636b14f741","fromSide":"right","toNode":"6d22a444b7f0baf5","toSide":"left"},
+		{"id":"acd1399a2d9227be","fromNode":"2be98eb6534d85fd","fromSide":"left","toNode":"bc6821abe628618e","toSide":"right"},
+		{"id":"d7882a00571e552b","fromNode":"8bebac59efeb8ebd","fromSide":"right","toNode":"86b4e9eb0050d320","toSide":"left"}
+	]
+}
