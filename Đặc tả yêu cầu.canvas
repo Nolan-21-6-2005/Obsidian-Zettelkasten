@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"17ff1bfacd42b7b9","type":"text","text":"Mục đích của hệ thống: học tập, nghiên cứu. \nĐối tượng người dùng: Tôi.","x":10,"y":-220,"width":250,"height":100},
+		{"id":"eeecc559c961ce02","type":"text","text":"Phạm vi hệ thống\n","x":10,"y":-40,"width":250,"height":120},
+		{"id":"b70bb909eb5bc694","type":"text","text":"Giao diện","x":96,"y":178,"width":250,"height":60},
+		{"id":"1675c64b1d6f68f0","type":"text","text":"Client","x":110,"y":302,"width":250,"height":60},
+		{"id":"f65a152c8f238a45","type":"text","text":"Server","x":124,"y":428,"width":250,"height":60},
+		{"id":"c898cc745608e396","x":30,"y":-332,"width":250,"height":60,"type":"text","text":"Yêu cầu xây dựng hệ thống bán hàng "}
+	],
+	"edges":[]
+}
